@@ -1,0 +1,16 @@
+*, *:before, *:after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0; }
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2rem;
+  padding-right: 2rem; }
+  .container h1 {
+    font-size: 5rem;
+    color: orangered;
+    padding-top: 2em; }
+  .container h1, .container p {
+    text-align: center; }

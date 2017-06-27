@@ -1,0 +1,29 @@
+{
+  "name": "html-starter-kit",
+  "version": "1.0.0",
+  "description": "HTML starter kit with sass/scss complier and watcher and js",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass -w -r public/scss/ -o public/css/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aprather51/sass_complier_watcher.git"
+  },
+  "keywords": [
+    "sass",
+    "scss",
+    "complier",
+    "watcher"
+  ],
+  "author": "Arthur Prather",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aprather51/sass_complier_watcher/issues"
+  },
+  "homepage": "https://github.com/aprather51/sass_complier_watcher#readme",
+  "devDependencies": {
+    "node-sass": "^4.5.3",
+    "nodemon": "^1.11.0"
+  }
+}
