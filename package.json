@@ -8,7 +8,11 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "git+aprather51+https://github.com/aprather51/sass_complier_watcher.git"
+=======
+    "url": "git+https://github.com/aprather51/SASS_Complier.git"
+>>>>>>> 2fd8e347cbfe0d32b48016d29d82e63f7eeba5c9
   },
   "keywords": [
     "sass",
