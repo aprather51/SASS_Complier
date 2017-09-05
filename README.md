@@ -1,5 +1,5 @@
 #HTML Starter Kit
-HTML simple starter kit for building webpage using scss/sass and js. 
+HTML simple starter kit for Front-End using scss/sass complier. 
 
 ### NPM devDependencies 
  - node-sass (sass complier)
